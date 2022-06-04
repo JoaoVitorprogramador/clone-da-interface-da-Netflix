@@ -1,0 +1,374 @@
+*{margin:0%;
+ padding:0%;}
+
+#primeiro-bloco{
+    background-image: url(././imagenetflix.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    align-items: center;
+}
+
+#caixa-1{ align-items: center;
+    border: 0em;
+    padding-bottom: 120px;
+    padding-top: 20px;
+    }
+
+#caixa-2{ border: 0em;
+    }
+
+main{ padding-bottom: 400px; }
+
+#botao-1{ font-family: sans-serif;
+    background-color: #e50914;
+    color:white; 
+    cursor: pointer;
+    font-size: 17px;
+    padding-top: 6px ;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    padding-right: 14px;
+    border-radius: 2px;
+    margin-left: 30px;
+    margin-top: 0%;
+    border: 0px;
+    
+    }
+
+#seleções{ padding: 5px 10px;
+    color: white;
+    background-color: black;
+    border-radius: 2px;
+    border-color: white;
+    font-size: 15px;
+    margin-left:20px;
+    }
+
+#imagem{ margin-right: 500px;
+    height: 36px;
+    margin-left: 59px;
+     }
+
+
+
+.context{ color:white;
+    font-family: sans-serif; }
+
+#bloco-2{ align-items: center;
+    Text-align: center ; 
+    }
+
+#titulo-1{ width: 0px; 
+    font-size: 30px;
+    }
+
+.context-1{ color: white;
+    font-family: sans-serif;
+    font-size: 48px;
+    padding-top: 37px;
+    padding-bottom: 20px;
+}
+
+h2{ color:white;
+    font-family:sans-serif;
+    padding-bottom: 36px; 
+    font-size: 24.40px; }
+
+p{ font-family: sans-serif;
+    padding-bottom: 1px;
+    font-size: 19px; }
+
+.input{ width: 440px;
+    padding-top: 23px;
+    padding-bottom: 17px;
+    border-radius: 2px;
+    border: 0em;
+    padding-left: 8px;
+    font-size: 18px;
+    font-family: sans-serif;
+    }
+
+.botao-2{ width: 180px;
+    cursor: pointer;
+    background-color: #e50914;
+    margin-left: 1px;
+    border-radius: 1px;
+    border: 0em;
+    color: white;
+    font-size: 26px;
+    border-radius: 2px;
+    }
+
+#formulario{ display: flex;
+    justify-content: center ; 
+    margin-bottom: 80px; 
+     }
+
+.context-3{ text-align: center;
+    color:white;
+    padding-top: 66px;
+    padding-bottom: 40px; 
+    font-size: 49px;
+    font-family: sans-serif;
+     }
+
+footer{ background-color: black; }
+
+.botao-pergunta{ background-color: #303030;
+    color:white;
+    margin-top: 8px;
+    font-size: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 685px;
+    height: 76px;
+    cursor:pointer;
+    border: 0px;
+    text-align: left;
+    padding-left: 28px;
+    }
+
+#botao-pergunta-1{background-color: #303030;
+    color:white;
+    margin-top: 8px;
+    font-size: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 685px;
+    height: 76px;
+    cursor:pointer;
+    border: 0px;
+    text-align: left;
+    padding-left: 28px;}
+
+#botao-pergunta-2{background-color: #303030;
+    color:white;
+    margin-top: 8px;
+    font-size: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 685px;
+    height: 76px;
+    cursor:pointer;
+    border: 0px;
+    text-align: left;
+    padding-left: 28px;}
+
+#botao-pergunta-3{background-color: #303030;
+        color:white;
+        margin-top: 8px;
+        font-size: 26px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 685px;
+        height: 76px;
+        cursor:pointer;
+        border: 0px;
+        text-align: left;
+        padding-left: 28px;}
+
+#botao-pergunta-4{background-color: #303030;
+            color:white;
+            margin-top: 8px;
+            font-size: 26px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 685px;
+            height: 76px;
+            cursor:pointer;
+            border: 0px;
+            text-align: left;
+            padding-left: 28px;}
+
+#botao-pergunta-5{background-color: #303030;
+                color:white;
+                margin-top: 8px;
+                font-size: 26px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 685px;
+                height: 76px;
+                cursor:pointer;
+                border: 0px;
+                text-align: left;
+                padding-left: 28px;}
+
+
+#botao-pergunta-6{background-color: #303030;
+                color:white;
+                margin-top: 8px;
+                font-size: 26px;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                 width: 685px;
+                height: 76px;
+                cursor:pointer;
+                border: 0px;
+                text-align: left;
+                 padding-left: 28px;}
+                 
+#caixa-pergunta{ border: 0em;
+    display: flex;
+    flex-direction: column;
+    }
+
+#foto-do-x-1{ float:right;
+    padding-top:18px;
+    padding-right: 30px;
+    transform: rotate(45deg);
+    }
+
+#foto-do-x-2{ float: right;
+    padding-top:18px;
+    padding-right: 30px;
+    transform: rotate(45deg);}
+
+#foto-do-x-3{ float: right;
+    padding-top:18px;
+    padding-right: 30px;
+    transform: rotate(45deg);}
+
+#foto-do-x-4{float: right;
+    padding-top:18px;
+    padding-right: 30px;
+    transform: rotate(45deg);}
+
+#foto-do-x-5{float: right ;
+    padding-top:18px;
+    padding-right: 30px;
+    transform: rotate(45deg);}
+
+#foto-do-x-6{float: right;
+    padding-top:18px;
+    padding-right: 30px;
+    transform: rotate(45deg);}
+
+#foto-do-x-girar{ float:right;
+    padding-top:30px;
+    margin-top: 15px;
+    padding-right:30px;
+    transform: rotate(90deg);}
+
+#botao-2{ width: 180px;
+    cursor: pointer;
+    background-color: #e50914;
+    margin-left: 0px;
+    border-radius: 1px;
+    border: 0em;
+    color: white;
+    font-size: 26px;
+    border-radius: 2px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    }
+
+#input{ width: 440px;
+    padding-top: 23px;
+    padding-bottom: 17px;
+    border-radius: 2px;
+    border: 0em;
+    padding-left: 8px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-bottom: 70px;
+    margin-top:16px;
+    margin-left: 190px;
+    }
+    
+.-context{ color:white;
+    padding-top: 63px;
+    padding-bottom:19px;
+    text-align: center;
+    }
+
+.botao-div{ color:white;
+    width: 685px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #303030;
+    margin-top: 1px;
+    display: none; }
+
+#botao-div-1{ color:white;
+    width: 685px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #303030;
+    margin-top: 1px;
+    display: none; }
+
+#botao-div-2{color:white;
+    width: 685px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #303030;
+    margin-top: 1px;
+    display: none;}
+
+#botao-div-3{color:white;
+    width: 685px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #303030;
+    margin-top: 1px;
+    display: none;}
+
+#botao-div-4{color:white;
+    width: 685px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #303030;
+    margin-top: 1px;
+    display: none;}
+
+#botao-div-5{color:white;
+    width: 685px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #303030;
+    margin-top: 1px;
+    display: none;}
+
+#botao-div-6{color:white;
+    width: 685px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #303030;
+    margin-top: 1px;
+    display: none;}
+
+#botao-pergunta-1{background-color: #303030;
+    color:white;
+    margin-top: 8px;
+    font-size: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 685px;
+    height: 76px;
+    cursor:pointer;
+    border: 0px;
+    text-align: left;
+    padding-left: 28px;
+    padding-top:20px;}
